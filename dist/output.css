@@ -573,8 +573,8 @@ video {
   border-radius: 9999px;
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
-  padding-left: 2.5rem;
-  padding-right: 2.5rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
   font-size: 1.25rem;
   line-height: 1.75rem;
   font-weight: 600;
@@ -709,12 +709,12 @@ video {
           background-clip: text;
 }
 
-.bg-left {
-  background-position: left;
-}
-
 .bg-center {
   background-position: center;
+}
+
+.bg-left {
+  background-position: left;
 }
 
 .bg-no-repeat {
